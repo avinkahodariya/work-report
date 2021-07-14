@@ -1,0 +1,28 @@
+use of github:
+
+                first : crete repo in the github web;
+                second : open code 
+                         - git init  => to crete git repo
+                         - git add .    => to add all file into git 
+                         - git commit => add file into git (local)
+                         - git branch -M master 
+                         - git git remote add origin https://github.com/avinkahodariya/work-report.git => to link
+                         - push -u origin main  => upload repo in github web server
+                   
+                   
+               master branch stands for main code which is errorless and tested
+               dev branch stands for under devlopment code which is frequntally changes during devlopment
+               dev code is for testing purpose if test pass so merge to the master branch
+               for daily working or updating purpose fetch code from dev branch and merge with dev branch after updateing
+               crete daily new branch for update
+               
+               
+               
+work :  
+        use of github;
+        pizzaholic main page design;
+        create sample pizza_edit page and 
+                -route in index.js file using {broweserouter,switch,routh,path}
+        
+      
+               

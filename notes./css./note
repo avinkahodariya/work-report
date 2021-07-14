@@ -1,0 +1,12 @@
+position: {fixed,stick} 
+          -only works on with respect to relative to its parent element;
+          -relative to its parent is complasarry
+          -fixed works with respect to all entire page 
+          -sticky => rsp to its parent ele
+          
+          
+         
+         
+         
+         
+ width-height :    always give width and height from inner element to outer so outer element width and height set autommatically

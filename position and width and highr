@@ -4,7 +4,7 @@ position: {fixed,stick}
           -fixed works with respect to all entire page 
           -sticky => rsp to its parent ele
           
-          
+         
          
          
          

@@ -4,5 +4,6 @@ usehistory is for providing path and props
 uselocation is for receiving props 
 
 desigining of second page of pizza edit
+ - find png files for topping
  - add navbar with name,image,checkbox
  - create pizaa animation base side in navbar

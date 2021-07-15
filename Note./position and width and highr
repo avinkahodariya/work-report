@@ -9,4 +9,4 @@ position: {fixed,stick}
          
          
          
- width-height :    always give width and height from inner element to outer so outer element width and height set autommatically
+ width-height :    alwayss give width and height from inner element to outer so outer element width and height set autommatically

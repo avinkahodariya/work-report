@@ -1,0 +1,8 @@
+using usehistory and uselocation hooks
+
+usehistory is for providing path and props 
+uselocation is for receiving props 
+
+desigining of second page of pizza edit
+ - add navbar with name,image,checkbox
+ - create pizaa animation base side in navbar

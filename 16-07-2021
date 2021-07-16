@@ -1,0 +1,12 @@
+add ingredints state in the pizza edit main page componant
+ - - in pizza edit main page componant cretae state of ingrediants 
+ - -and set into array state using checked event 
+ - -and remove from array state using filter method
+
+ - redeign nav bar with ingredients image 
+ - redesign pizza edit portion
+     = remove all unnessessory div from pizzaaedit portion
+     = only 1 main plaim pizza i,age and other ingreditns image in pizza edit portion copmponant
+    
+    
+position methid of relative and absolute is learned and set arraystate and remove from array state value is learnd 

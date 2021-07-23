@@ -1,0 +1,17 @@
+redesign all pizza edit page
+   - add upper header
+   - from side nave its gone on pizza image edit bottam 
+   - first header
+   -second nav bar which cotaoin image and checkbox 
+   -thirt footer
+   -css recode
+   
+   
+main page pizza box on zoom out is wrapping so those correct with giving fixsized width on pixel
+
+
+
+24-07-2021 => redesign project folder structure and componant name 
+           => import all image in one file and use this file in all project to use image
+           => use map method in which required or in which code is got smaller
+        

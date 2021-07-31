@@ -1,0 +1,23 @@
+learn redux
+
+add login and sign in page 
+
+convert login and sigin page into redux 
+
+add cart function in localstorege datbase
+
+learn concept of reducer store action dispatch 
+
+how to crete action , reducer ,combinereducer,call ation ,
+
+retricve state in react componant fron redux using connect
+
+pass data from react componant to redux reducer with action 
+
+in non react function the redux state is not accesible
+
+...satate retrive orignal or ptrievce data and overide if we provide other data to those key or add data if we provide the new key and value
+
+to use specific reducer state so we call state.reducername.statedata
+
+
